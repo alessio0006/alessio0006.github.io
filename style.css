@@ -1,0 +1,23 @@
+.lw { font-size: 60px; }
+
+.header{
+    color:blue;
+    text-align:center;
+    font-weight: lighter;
+}
+.bold{
+    font-weight:700;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("img.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
